@@ -1,1 +1,11 @@
 a rainbow with seven different colors.
+
+red
+yellow
+green 
+purple
+orange
+pink
+
+white
+basic rainbow pattern
