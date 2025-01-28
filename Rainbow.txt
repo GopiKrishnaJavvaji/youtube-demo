@@ -6,6 +6,6 @@ green
 purple
 orange
 pink
-
+indigo (for unicorn)
 white
 basic rainbow pattern
