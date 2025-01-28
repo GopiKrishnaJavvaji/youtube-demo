@@ -1,6 +1,5 @@
 a rainbow with seven different colors.
-adding unicorn in the game
-team unicorns after reverting
+
 
 red
 yellow
@@ -8,6 +7,6 @@ green
 purple
 orange
 pink
-
+indigo (for unicorn)
 white
 basic rainbow pattern
